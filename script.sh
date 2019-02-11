@@ -1,0 +1,1 @@
+python train_frcnn.py -o simple -p annotate.txt
